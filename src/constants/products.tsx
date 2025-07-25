@@ -47,11 +47,8 @@ export const products = [
       "Nextjs",
       "Tailwindcss",
       "Express",
-      "Nodejs",
       "Socket.io",
-      "MongoDB",
       "API",
-      "DaisyUI",
     ],
     slug: "kleos",
     content: (
